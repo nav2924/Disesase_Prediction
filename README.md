@@ -27,10 +27,6 @@ This is the file which consist of dataset and there are various differnt algorit
 * Naive Bayes
 These four algorithms is used to train our model and all gives an accuracy of over 90
 
-## Database
-The database used in this project is "sqlite" whose name is database.db which consist of four tables in which we have shown the results of four different algorithms.we are saving the results of users with their names for future preferences.
-![](https://github.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-sudhanshu/blob/master/Database/db1.jpeg)
-
 ## GUI.py
 This is the file which is used to create the interface of our system.GUI stands for Graphical User Interface and to create it we have used Tkinter which gives a software kind of view to our project where user can directly interact with the system by entering the symptoms of dieases and he/she will get the disease through various algorithms.
 
